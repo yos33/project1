@@ -1,4 +1,3 @@
 # project1 - a simple git flow test
-test project1
+brand new project
 
--fixing the conflict
